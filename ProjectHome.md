@@ -1,0 +1,1 @@
+Heart rate monitoring application for android - to start just a start/stop button so that i can record and get an average heart rate per excercise
